@@ -1,0 +1,432 @@
+{
+  "name": "Max Right",
+  "identifier": "com.iamawesomedog.ds.maxright",
+  "gameTypeIdentifier": "com.rileytestut.delta.game.ds",
+  "debug": true,
+  "representations": {
+    "iphone": {
+      "edgeToEdge": {
+        "landscape": {
+          "assets": {
+            "resizable": "maxright.pdf"
+          },
+          "items": [
+            {
+              "inputs": {
+                "up": "up",
+                "down": "down",
+                "left": "left",
+                "right": "right"
+              },
+              "frame": {
+                "x": 18,
+                "y": 210,
+                "width": 200,
+                "height": 200
+              }
+            },
+            {
+              "inputs": [
+                "a"
+              ],
+              "frame": {
+                "x": 811,
+                "y": 319,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "b"
+              ],
+              "frame": {
+                "x": 764,
+                "y": 371,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "l"
+              ],
+              "frame": {
+                "x": 655,
+                "y": 267,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "r"
+              ],
+              "frame": {
+                "x": 580,
+                "y": 267,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "start"
+              ],
+              "frame": {
+                "x": 655,
+                "y": 369,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "select"
+              ],
+              "frame": {
+                "x": 580,
+                "y": 369,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "menu"
+              ],
+              "frame": {
+                "x": 884,
+                "y": 12,
+                "width": 48,
+                "height": 58
+              }
+            },
+            {
+              "inputs": [
+                "x"
+              ],
+              "frame": {
+                "x": 764,
+                "y": 269,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "y"
+              ],
+              "frame": {
+                "x": 714,
+                "y": 320,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "toggleAltRepresentations"
+              ],
+              "frame": {
+                "x": 884,
+                "y": 87,
+                "width": 48,
+                "height": 58
+              }
+            },
+            {
+              "inputs": [
+                "toggleFastForward"
+              ],
+              "frame": {
+                "x": 868,
+                "y": 278,
+                "width": 64,
+                "height": 73
+              }
+            },
+            {
+              "inputs": [
+                "quickSettings"
+              ],
+              "frame": {
+                "x": 868,
+                "y": 357,
+                "width": 64,
+                "height": 73
+              }
+            },
+            {
+              "inputs": {
+                "x": "touchScreenX",
+                "y": "touchScreenY"
+              },
+              "frame": {
+                "x": 571,
+                "y": 0,
+                "width": 310,
+                "height": 232
+              }
+            }
+          ],
+          "screens": [
+            {
+              "inputFrame": {
+                "x": 0,
+                "y": 0,
+                "width": 256,
+                "height": 192
+              },
+              "outputFrame": {
+                "x": 0,
+                "y": 0,
+                "width": 571,
+                "height": 430
+              }
+            },
+            {
+              "inputFrame": {
+                "x": 0,
+                "y": 192,
+                "width": 256,
+                "height": 192
+              },
+              "outputFrame": {
+                "x": 571,
+                "y": 0,
+                "width": 310,
+                "height": 232
+              }
+            }
+          ],
+          "mappingSize": {
+            "width": 932,
+            "height": 430
+          },
+          "extendedEdges": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "translucent": true,
+          "backgroundBlur": false
+        }
+      }
+    }
+  },
+  "altRepresentations": {
+    "iphone": {
+      "edgeToEdge": {
+        "landscape": {
+          "assets": {
+            "resizable": "maxright2.pdf"
+          },
+          "items": [
+            {
+              "inputs": {
+                "up": "up",
+                "down": "down",
+                "left": "left",
+                "right": "right"
+              },
+              "frame": {
+                "x": 571,
+                "y": 0,
+                "width": 310,
+                "height": 232
+              }
+            },
+            {
+              "inputs": [
+                "a"
+              ],
+              "frame": {
+                "x": 811,
+                "y": 319,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "b"
+              ],
+              "frame": {
+                "x": 764,
+                "y": 371,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "l"
+              ],
+              "frame": {
+                "x": 655,
+                "y": 267,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "r"
+              ],
+              "frame": {
+                "x": 580,
+                "y": 267,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "start"
+              ],
+              "frame": {
+                "x": 655,
+                "y": 369,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "select"
+              ],
+              "frame": {
+                "x": 580,
+                "y": 369,
+                "width": 65,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "menu"
+              ],
+              "frame": {
+                "x": 884,
+                "y": 12,
+                "width": 48,
+                "height": 58
+              }
+            },
+            {
+              "inputs": [
+                "x"
+              ],
+              "frame": {
+                "x": 764,
+                "y": 269,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "y"
+              ],
+              "frame": {
+                "x": 714,
+                "y": 320,
+                "width": 52,
+                "height": 51
+              }
+            },
+            {
+              "inputs": [
+                "toggleAltRepresentations"
+              ],
+              "frame": {
+                "x": 884,
+                "y": 87,
+                "width": 48,
+                "height": 58
+              }
+            },
+            {
+              "inputs": [
+                "toggleFastForward"
+              ],
+              "frame": {
+                "x": 868,
+                "y": 278,
+                "width": 64,
+                "height": 73
+              }
+            },
+            {
+              "inputs": [
+                "quickSettings"
+              ],
+              "frame": {
+                "x": 868,
+                "y": 357,
+                "width": 64,
+                "height": 73
+              }
+            },
+            {
+              "inputs": {
+                "x": "touchScreenX",
+                "y": "touchScreenY"
+              },
+              "frame": {
+                "x": 0,
+                "y": 0,
+                "width": 571,
+                "height": 430
+              }
+            }
+          ],
+          "screens": [
+            {
+              "inputFrame": {
+                "x": 0,
+                "y": 0,
+                "width": 256,
+                "height": 192
+              },
+              "outputFrame": {
+                "x": 571,
+                "y": 0,
+                "width": 310,
+                "height": 232
+              }
+            },
+            {
+              "inputFrame": {
+                "x": 0,
+                "y": 192,
+                "width": 256,
+                "height": 192
+              },
+              "outputFrame": {
+                "x": 0,
+                "y": 0,
+                "width": 571,
+                "height": 430
+              }
+            }
+          ],
+          "mappingSize": {
+            "width": 932,
+            "height": 430
+          },
+          "extendedEdges": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "translucent": true,
+          "backgroundBlur": false
+        }
+      }
+    }
+  }
+}
