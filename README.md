@@ -12,3 +12,5 @@ I named this skin max right because it is for 14 pro max, and the notch should b
 ![0](https://github.com/Iamawesomedog/maxrightignitedskin/assets/153322571/9bbc0d46-198a-4d10-a0a3-0caf5f3a962f)
 ![0](https://github.com/Iamawesomedog/maxrightignitedskin/assets/153322571/544136d4-07aa-45f4-beb6-05e570907ede)
 
+It can be downloaded here:
+https://github.com/Iamawesomedog/maxrightignitedskin/releases/tag/1
